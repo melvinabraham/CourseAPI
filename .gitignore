@@ -1,2 +1,8 @@
 #Setting Files
 ./settings
+
+#Classpath
+.classpath
+
+#STS Files
+.project
