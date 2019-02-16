@@ -1,5 +1,5 @@
-#Setting Files
-./settings
+#Folders
+target/
 
 #Classpath
 .classpath
